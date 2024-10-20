@@ -3,7 +3,7 @@ info:
   title: My API
   description: "This is my API"
   version: "1.0.0"
-host: "my-api.endpoints.t1y2u3.cloud.goog"
+host: //
 schemes:
 - https
 paths:
